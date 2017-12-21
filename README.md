@@ -1,13 +1,15 @@
 # Analysis report on Apple Inc(US) and Twitter 
-======================================================================================
+
+=================================================================================
 
 - Prepared by : Khew Min Shiu
 - Mail : minshiu95@gmail.com
 
+<div style="text-align:justify">
 The codes is submitting in Ipython Notebook format, but I have created another copy named `codes.py` for backup purpose.
-For convenient purpose, I will call AAPL_US just as `Apple`.
+*For convenient purpose, I will call AAPL_US just as `Apple`.
 
-======================================================================================
+=================================================================================
 
 I have extracted NS1/AAPL_US and NS1/TWTR_US to perform analysis and do comparison.
 First, I perform simple statistic on `Sentiment` and `News Buzz` variable. The results are shown below:
@@ -32,7 +34,7 @@ Besides of conducting descriptive statistic, I do a small calculation on positiv
 
 <hr></hr>
 
-A small interesting I observed is that there is 18 days that `Apple` has zero sentiment and buzz and 16 days for `Twitter`. I couldn't say more on this phenomenon. It might be the system maintence which affect data retrieval, but also might be that not much people talking on this 2 assets for these days.
+A small interesting I observed is that there is 18 days that `Apple` has zero sentiment and buzz and 16 days for `Twitter`. I can't say much on this phenomenon. It might be the system maintence which affect data retrieval, but also might be that not much people talking on this 2 assets for these days.
 
 <hr></hr>
 
@@ -59,3 +61,4 @@ The result is shown on the bottom part. This is an example for positive predicti
 <hr></hr>
 
 As a conclusion, I predict that `Apple` has a relative high market prices than `Twitter` for the past 3 months based on the sentiment data analysis. However, `Apple` shows more unstability in sentiment and it might indicate a higher risk on this company.
+</div>
