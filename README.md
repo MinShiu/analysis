@@ -8,7 +8,7 @@
 
 The codes is submitting in Ipython Notebook format, but I have created another copy named `codes.py` for backup purpose.
 *For convenient purpose, I will call AAPL_US just as `Apple`.
-<br>*Sorry for not justifying the paragraph below. I tried but it doesn't works at all. 
+<br>*Sorry for not justifying the paragraph below. I tried but it doesn't work at all. 
 
 =================================================================================
 <div style="text-align:justify">
