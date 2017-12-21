@@ -5,7 +5,7 @@
 - Prepared by : Khew Min Shiu
 - Mail : minshiu95@gmail.com
 
-<div style="text-align:justify">
+<div style="text-align:justify;text-justify: inter-word">
 The codes is submitting in Ipython Notebook format, but I have created another copy named `codes.py` for backup purpose.
 *For convenient purpose, I will call AAPL_US just as `Apple`.
 
