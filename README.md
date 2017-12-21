@@ -5,12 +5,12 @@
 - Prepared by : Khew Min Shiu
 - Mail : minshiu95@gmail.com
 
-<div style="text-align:justify;text-justify: inter-word">
+
 The codes is submitting in Ipython Notebook format, but I have created another copy named `codes.py` for backup purpose.
 *For convenient purpose, I will call AAPL_US just as `Apple`.
 
 =================================================================================
-
+<div style="text-align:justify">
 I have extracted NS1/AAPL_US and NS1/TWTR_US to perform analysis and do comparison.
 First, I perform simple statistic on `Sentiment` and `News Buzz` variable. The results are shown below:
 
@@ -61,4 +61,5 @@ The result is shown on the bottom part. This is an example for positive predicti
 <hr></hr>
 
 As a conclusion, I predict that `Apple` has a relative high market prices than `Twitter` for the past 3 months based on the sentiment data analysis. However, `Apple` shows more unstability in sentiment and it might indicate a higher risk on this company.
+
 </div>
